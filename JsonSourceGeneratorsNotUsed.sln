@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonSourceGeneratorsNotUsed", "JsonSourceGeneratorsNotUsed.csproj", "{E024D6D9-617F-491B-9590-F70736E22C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E024D6D9-617F-491B-9590-F70736E22C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E024D6D9-617F-491B-9590-F70736E22C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E024D6D9-617F-491B-9590-F70736E22C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E024D6D9-617F-491B-9590-F70736E22C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B770F4-9CED-4585-8D44-2D3AB5F02C2B}
+	EndGlobalSection
+EndGlobal
